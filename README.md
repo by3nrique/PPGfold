@@ -6,7 +6,15 @@
 📄 **Published article:** [IEEE Transactions on Biomedical Engineering](https://doi.org/10.1109/TBME.2025.3625858)  
 🧬 **PubMed entry:** [https://pubmed.ncbi.nlm.nih.gov/41144410/](https://pubmed.ncbi.nlm.nih.gov/41144410/)
 
-This repository contains all code, preprocessing scripts, model configurations, and trained checkpoints associated with the study **"Manifold Learning Approaches for Characterizing Photoplethysmographic Signals"** by Enrique Feito-Casares, Francisco M Melgarejo-Meseguer, Alejandro Cobo, Luis Baumela, and José-Luis Rojo-Álvarez.
+This repository contains all code, preprocessing scripts, model configurations, and trained checkpoints associated with the study  
+**"Manifold Learning Approaches for Characterizing Photoplethysmographic Signals"** by  
+
+- Enrique Feito-Casares [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5068--3166-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5068-3166)  
+- Francisco M. Melgarejo-Meseguer [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6916--6082-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6916-6082) 
+- Alejandro Cobo Carbonero [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7967--6837-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7967-6837) 
+- Luis Baumela Molina [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6910--4359-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6910-4359) 
+- José-Luis Rojo-Álvarez [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0426--8912-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0426-8912)
+
 
 ## Citation
 
@@ -170,12 +178,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This work was supported by the Research Grants HERMES, LATENTIA, PCardioTrials, and ETHICFACE (PID2023-152331OA-I00, PID2022-140786NB-C31, and PID2022-140553OA-C42, and PID2022-137581OB-I00), funded by MICIU/AEI/10.13039/501100011033 and ERDF, FEDER / EU. Also supported by Rey Juan Carlos University, project HERMES 2024/00004/00, by the Programa Propio of UPM, by the CyberFold project, funded by the European Union through the NextGenerationEU instrument (Recovery, Transformation, and Resilience Plan), and managed by Instituto Nacional de Ciberseguridad de España (INCIBE), under reference number ETD202300129, and a grant from Comunidad de Madrid to the Madrid ELLIS Unit.  
 
-<p align="center">
-<img width="4678" height="410" alt="imagen" src="https://github.com/user-attachments/assets/6cd4906a-a957-41d9-974c-e26244b87fb0" />
-</p>
-
-With the collaboration of
-<p align="center">
-<img width="197" height="82" alt="imagen" src="https://github.com/user-attachments/assets/a35dc242-ddf6-4307-a03a-88ad3ed741af" />
-</p>
 
