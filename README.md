@@ -41,7 +41,7 @@ If you use this code in your research, please cite:
   author = {Feito Casares, Enrique and Melgarejo Meseguer, Francisco Manuel and Cobo Carbonero, Alejandro and Baumela Molina, Luis and {Rojo-{\'A}lvarez}, Jos{\'e} Luis},
   year = {2025},
   month = aug,
-  doi = {10.5281/zenodo.16736998},
+  doi = {10.5281/zenodo.16736997},
   howpublished = {Zenodo}
 }
 ```
