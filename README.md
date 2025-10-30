@@ -1,6 +1,6 @@
 # Manifold Learning Approaches for Characterizing Photoplethysmographic Signals
 [![IEEE DOI](https://img.shields.io/badge/DOI-10.1109/TBME.2025.3625858-blue)](https://doi.org/10.1109/TBME.2025.3625858)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16736998.svg)](https://doi.org/10.5281/zenodo.16736998)  
+[![DOI](https://doi.org/10.5281/zenodo.16736997)](https://doi.org/10.5281/zenodo.16736997)  
 
 
 📄 **Published article:** [IEEE Transactions on Biomedical Engineering](https://doi.org/10.1109/TBME.2025.3625858)  
